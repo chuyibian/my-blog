@@ -1,0 +1,16 @@
+baseURL = 'https://chuyibian.github.io/my-blog/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+  
+  # home page profile
+  name = 'My Name'
+  bio = 'Welcome to my blog.'
+  
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
